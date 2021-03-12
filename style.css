@@ -2,24 +2,24 @@ body {
   background-color: lightcoral;
 }
 
-#para1 {
+#para1 { 
   font-size: 125%;
   color: blanchedalmond;
 }
 
-.para2 {
+.para2 { 
    font-size: 150; 
-   color: aqua;
+   color: aqua; 
 }
 
-.table {
-    font-family: Verdana;
-    font-size: 150%;
-    color: red;
-}
+.table { 
+    font-family: Verdana; 
+    font-size: 150%; 
+    color: red; 
+} 
 
 .list {  
-    font-family: Arial;
-    font-size: 200%;
-    color: chartreuse;
+    font-family: Arial; 
+    font-size: 200%; 
+    color: chartreuse; 
 }
