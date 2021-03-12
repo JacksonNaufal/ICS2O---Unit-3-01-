@@ -1,21 +1,21 @@
-body { 
+body {  
   background-color: lightcoral; 
-}
+} 
 #para1 { 
   font-size:125%; 
   color: blanchedalmond;  
-}
+} 
 .para2 { 
    font-size:150; 
    color: aqua;
-} 
-.table { 
+}  
+.table {  
     font-family: Verdana;
     font-size: 150%;
     color: red
-} 
-.list {  
+}  
+.list {   
     font-family: Arial;
     font-size: 200%; 
     color:chartreuse;
-}
+} 
