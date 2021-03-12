@@ -1,0 +1,21 @@
+body { 
+  background-color: lightcoral; 
+}
+#para1 { 
+  font-size:125%; 
+  color: blanchedalmond;  
+}
+.para2 { 
+   font-size:150; 
+   color: aqua;
+} 
+.Table { 
+    font-family: Verdana;
+    font-size: 150%;
+    color: red
+} 
+.FoodList {  
+    font-family: Arial;
+    font-size: 200%; 
+    color:chartreuse;
+}
