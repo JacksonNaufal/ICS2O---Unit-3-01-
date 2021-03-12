@@ -9,12 +9,12 @@ body {
    font-size:150; 
    color: aqua;
 } 
-.Table { 
+.table { 
     font-family: Verdana;
     font-size: 150%;
     color: red
 } 
-.FoodList {  
+.list {  
     font-family: Arial;
     font-size: 200%; 
     color:chartreuse;
