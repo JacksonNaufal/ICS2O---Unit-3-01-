@@ -13,13 +13,13 @@ body {
 }
 
 .table { 
-    font-family: Verdana; 
-    font-size: 150%; 
-    color: red; 
+    font-family: Verdana;
+    font-size: 150%;
+    color: red;
 } 
 
 .list {  
-    font-family: Arial; 
+    font-family: Arial;
     font-size: 200%; 
     color: chartreuse; 
 }
